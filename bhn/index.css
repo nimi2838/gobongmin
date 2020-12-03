@@ -342,53 +342,53 @@ p {
 /* 메뉴 이미지 css로 삽입 */
 
 .contents>.menu-box>.menu>.bg-1 {
-  background-image: url("https://nimi2838.github.io/gobongmin/bhn/menu1_3.jpg");
+  background-image: url("img/menu1_3.jpg");
 }
 
 .contents>.menu-box>.menu>.bg-2 {
-  background-image: url("https://nimi2838.github.io/gobongmin/bhn/menu1_4.jpg");
+  background-image: url("img/menu1_4.jpg");
 }
 
 .contents>.menu-box>.menu>.bg-3 {
-  background-image: url("https://nimi2838.github.io/gobongmin/bhn/menu1_6.jpg");
+  background-image: url("img/menu1_6.jpg");
 }
 
 .contents>.menu-box>.menu>.bg-4 {
-  background-image: url("https://nimi2838.github.io/gobongmin/bhn/menu1_8.jpg");
+  background-image: url("img/menu1_8.jpg");
 }
 
 .contents>.menu-box>.menu>.bg-5 {
-  background-image: url("https://nimi2838.github.io/gobongmin/bhn/menu1_10.jpg");
+  background-image: url("img/menu1_10.jpg");
 }
 
 .contents>.menu-box>.menu>.bg-6 {
-  background-image: url("https://nimi2838.github.io/gobongmin/bhn/menu1_14.jpg");
+  background-image: url("img/menu1_14.jpg");
 }
 
 /* 이미지 호버 */
 
 .contents>.menu-box>.menu:hover>.bg-1 {
-  background-image: url("https://nimi2838.github.io/gobongmin/bhn/menu1_3on.jpg");
+  background-image: url("img/menu1_3on.jpg");
 }
 
 .contents>.menu-box>.menu:hover>.bg-2 {
-  background-image: url("https://nimi2838.github.io/gobongmin/bhn/menu1_4on.jpg");
+  background-image: url("img/menu1_4on.jpg");
 }
 
 .contents>.menu-box>.menu:hover>.bg-3 {
-  background-image: url("https://nimi2838.github.io/gobongmin/bhn/menu1_6on.jpg");
+  background-image: url("img/menu1_6on.jpg");
 }
 
 .contents>.menu-box>.menu:hover>.bg-4 {
-  background-image: url("https://nimi2838.github.io/gobongmin/bhn/menu1_8on.jpg");
+  background-image: url("img/menu1_8on.jpg");
 }
 
 .contents>.menu-box>.menu:hover>.bg-5 {
-  background-image: url("https://nimi2838.github.io/gobongmin/bhn/menu1_10on.jpg");
+  background-image: url("img/menu1_10on.jpg");
 }
 
 .contents>.menu-box>.menu:hover>.bg-6 {
-  background-image: url("https://nimi2838.github.io/gobongmin/bhn/menu1_14on.jpg");
+  background-image: url("img/menu1_14on.jpg");
 }
 
 
@@ -437,7 +437,7 @@ p {
 
 
 .sub-box>.sub-back>.bg {
-  background-image: url("https://nimi2838.github.io/gobongmin/bhn/bg_block.jpg");
+  background-image: url("img/bg_block.jpg");
   width: 1920px;
   height: 700px;
   margin: 0 auto;
